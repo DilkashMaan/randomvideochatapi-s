@@ -63,7 +63,7 @@ CSRF_COOKIE_SAMESITE = 'None'
 
 
 CORS_ALLOWED_ORIGINS = [
-    "https://randomvideochat-frontend.vercel.app/",
+    "https://randomvideochat-frontend.vercel.app",
     "http://localhost:5173",
     "http://localhost:5174",
 ]
