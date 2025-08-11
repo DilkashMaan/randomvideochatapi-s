@@ -123,10 +123,10 @@ WSGI_APPLICATION = 'videocall.wsgi.application'
 DATABASES = {
     'default': {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME":"videochat_e1l9",
-        "USER": "virus",
-        "PASSWORD": "9dI9AyOO9uQVJAyNH3BNcjNcxK1Ww5Ev",
-        "HOST": "dpg-d0rvuqh5pdvs7392bcv0-a",
+        "NAME":"videochat_1l5w",
+        "USER": "dilkash",
+        "PASSWORD": "iPiOBsA0MYI5Kd3ksKokvBVbYdEn83Km",
+        "HOST": "dpg-d2csjgqdbo4c73c33q20-a",
         "PORT": "5432",
     }
 }
