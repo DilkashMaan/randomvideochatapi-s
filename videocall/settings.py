@@ -63,7 +63,7 @@ CSRF_COOKIE_SAMESITE = 'None'
 
 
 CORS_ALLOWED_ORIGINS = [
-    "https://final-front-mc5j.onrender.com",
+    "https://randomvideochat-frontend.vercel.app/",
     "http://localhost:5173",
     "http://localhost:5174",
 ]
